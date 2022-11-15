@@ -11,7 +11,8 @@
 
 |-|-|
 |---|---|
-|<img src= [waterWaveProgress](https://user-images.githubusercontent.com/81400169/202012368-4deb4902-b9ac-489c-88fd-6d0cd1b2ef62.png) >|
+|<img src= [waterWaveProgress](https://user-images.githubusercontent.com/81400169/202012368-4deb4902-b9ac-489c-88fd-6d0cd1b2ef62.png) 
+ width='200px'>|
 
 |-|-|
 |---|---|
