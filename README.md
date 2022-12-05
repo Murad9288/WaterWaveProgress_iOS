@@ -9,7 +9,7 @@
 <br/>
 
 
-|-|-|
+|Photo|Gif|
 |---|---|
 
 |<img src= './Image sample/waterWaveProgress.png' width='400px'>|
