@@ -11,6 +11,4 @@
 
 |Photo|Gif|
 |---|---|
-
-|<img src= './Image sample/waterWaveProgress.png' width='400px'>|
-|<img src='./Image sample/waterWaveProgressbar.gif' width='400px'>|
+|<img src= './Image sample/waterWaveProgress.png' width='400px'>|<img src='./Image sample/waterWaveProgressbar.gif' width='400px'>|
